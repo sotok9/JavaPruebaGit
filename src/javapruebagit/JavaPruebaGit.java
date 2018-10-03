@@ -10,6 +10,9 @@ public class JavaPruebaGit {
         System.out.println("saludos del fidel");
         
         System.out.println("validando update jj");
+        
+        System.out.println("validacion 2 JJ");
+        
     }
     
 }
