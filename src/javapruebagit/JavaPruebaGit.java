@@ -7,6 +7,7 @@ public class JavaPruebaGit {
         System.out.println("Cheuqen");
         
         System.out.println("Saludos dek johny");
+        System.out.println("saludos del fidel");
     }
     
 }
