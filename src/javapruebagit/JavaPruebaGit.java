@@ -1,5 +1,7 @@
 package javapruebagit;
 
+import javax.swing.JOptionPane;
+
 public class JavaPruebaGit {
 
     public static void main(String[] args) {
@@ -17,6 +19,11 @@ public class JavaPruebaGit {
         System.out.println("voy a cachar una suma");
         int suma = 6+6;
         System.out.println("suma"+suma);
+        
+        
+        int numero = Integer.parseInt(JOptionPane.showInputDialog(null, "dame un numero para multiplicarlo").toString());
+        int multiplicacion = numero * 5;
+        System.out.println("la multiplicacion es "+multiplicacion);
         
     }
     
