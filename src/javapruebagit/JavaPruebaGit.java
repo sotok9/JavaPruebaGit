@@ -19,6 +19,7 @@ public class JavaPruebaGit {
         System.out.println("voy a cachar una suma");
         int suma = 6+6;
         System.out.println("suma"+suma);
+        System.out.println("le wa meter un pushon");
         
         
         int numero = Integer.parseInt(JOptionPane.showInputDialog(null, "dame un numero para multiplicarlo").toString());
