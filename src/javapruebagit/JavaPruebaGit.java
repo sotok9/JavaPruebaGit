@@ -21,6 +21,8 @@ public class JavaPruebaGit {
         System.out.println("suma"+suma);
         System.out.println("le wa meter un pushon");
         
+        System.out.println("sdafa");
+        
         
         int numero = Integer.parseInt(JOptionPane.showInputDialog(null, "dame un numero para multiplicarlo").toString());
         int multiplicacion = numero * 5;
