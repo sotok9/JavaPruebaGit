@@ -15,6 +15,8 @@ public class JavaPruebaGit {
         System.out.println("validacion 3 JJ");
         
         System.out.println("voy a cachar una suma");
+        int suma = 6+6;
+        System.out.println("suma"+suma);
         
     }
     
