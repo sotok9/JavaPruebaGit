@@ -27,7 +27,7 @@ public class JavaPruebaGit {
         int numero = Integer.parseInt(JOptionPane.showInputDialog(null, "dame un numero para multiplicarlo").toString());
         int multiplicacion = numero * 5;
         System.out.println("la multiplicacion es "+multiplicacion);
-        
+        System.out.println("asfsafdsasfas");
         
         System.out.println("Jonathan Siari jajaja");
     }
